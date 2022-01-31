@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nandini
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning AI/ML/DL
-- 💞️ I’m looking to collaborate on projects related to AI/ML
+- 🌱 I’m currently learning Frontend developer cources
+- 💞️ I’m looking to collaborate on projects related to frontend developer
 - 📫 How to reach me Kalanandini18@gmail.com
 
 <!---
