@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nandini
-- 🌱 I’m currently doing my post graduation program in data science from upgrad insofe
+- 🌱 I’m currently looking for job opportunities
 - 💞️ I’m looking to collaborate on projects related to data science
 - 📫 How to reach me Kalanandini18@gmail.com
 
